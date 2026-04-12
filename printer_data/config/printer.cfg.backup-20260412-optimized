@@ -16,10 +16,10 @@ restart_method: command
 [printer]
 kinematics: cartesian
 max_velocity: 200
-max_accel: 3200
+max_accel: 3000
 max_z_velocity: 15
 max_z_accel: 45
-square_corner_velocity: 6.0
+square_corner_velocity: 8.0
 
 #####################################################################
 #      X/Y/Z Stepper Settings
